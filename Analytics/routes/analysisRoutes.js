@@ -1,6 +1,6 @@
 const express = require('express')
 
-const analysisController = require('../Controllers/analysisControllers')
+const analysisController = require('../controllers/analysisControllers')
 const router = express.Router()
 
 // get all 
